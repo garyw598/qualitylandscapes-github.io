@@ -125,7 +125,7 @@
   font-weight: 700;
   text-transform: uppercase;
   background-image: none;
-  margin: 30px auto 60px;
+  margin: 31px auto 59px;
 }
 
 @media (max-width: 767px) {
@@ -186,7 +186,7 @@
 }
 
 .u-section-4 .u-list-1 {
-  margin-top: 96px;
+  margin-top: 94px;
   margin-bottom: 0;
 }
 
@@ -323,7 +323,7 @@
 .u-section-4 .u-image-5 {
   width: 72px;
   height: 72px;
-  margin: -378px auto 0;
+  margin: -376px auto 0;
 }
 
 .u-section-4 .u-image-6 {
@@ -335,7 +335,7 @@
 .u-section-4 .u-image-7 {
   width: 72px;
   height: 72px;
-  margin: -72px auto 60px 243px;
+  margin: -72px auto 306px 243px;
 }
 
 @media (max-width: 1199px) {
