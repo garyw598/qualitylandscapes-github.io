@@ -43008,6 +43008,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 0;
   }
 
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+  }
+
   .u-header .u-text-1 {
     margin-right: 54px;
   }
